@@ -1,0 +1,17 @@
+:root {
+  --blue: rgb(6, 34, 58);
+  --text: rgb(248, 248, 248);
+}
+
+body {
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  position: relative;
+  background-color: rgba(240, 240, 240, 0.793);
+}
+
+h1 {
+  background-color: var(--blue);
+  margin: 5px 5px;
+  padding: 20px 20px;
+  font-size: 28x;
+}

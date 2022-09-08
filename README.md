@@ -17,11 +17,11 @@ Actions:
 
 https://salissa4.github.io/Weather-Dashboard/
 
-<img src="./assets/images/">
+<img src="./assets/images/weather.jpg">
 
 ## Credits
 
-Edited: 
+Edited: Dave Edelson Github: https://github.com/DBEdelson
 
 ## License
 
