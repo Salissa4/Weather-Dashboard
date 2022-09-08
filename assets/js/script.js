@@ -163,7 +163,8 @@
                     var cardBodyFive = $("<div>").addClass("card-body p-2");
                     var humidFive = $("<p>").addClass("card-text").text("Humidity: " + data.list[i].main.humidity + "%");
                     var tempFive = $("<p>").addClass("card-text").text("Temperature: " + data.list[i].main.temp + " °F");
-        
+                    //add wind var windFive = $("<p>").addClass("card-text").text("Wind: " + data.list[i].main.wind.speed)
+
                     colFive.append(cardFive.append(cardBodyFive.append(titleFive, imgFive, tempFive, humidFive)));
                     //append elements to body
                     $("#forecast .row").append(colFive);

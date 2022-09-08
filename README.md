@@ -8,7 +8,7 @@ Actions:
 1. User is given a form with input fields to obtain information about the weather
 2. When a user inputs a city the user is given current and future conditions for that city, and the city is added to user history
 3. Upon viewing the weather as a user I am able to see the city name, date, icons representing weather conditions, the temperature, humidity, wind speed and UV index
-4. When UV index is viewed, I am presented with a color indicating whether the conditions are favorable, moderate or sever
+4. When UV index is viewed, I am presented with a color indicating whether the conditions are favorable, moderate or severe
 5. As I view future weather conditions I see a 5-day forecast displaying date, icon representing weather conditions, temperature, wind speed and the humidity
 6. When a user clicks on a city in the search history the user is presented with current and future conditions for that city
 
